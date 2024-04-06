@@ -1,0 +1,3 @@
+# trading-bot
+
+Project repository.
